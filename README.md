@@ -1,3 +1,35 @@
+# Bem vindo ao projeto ***Crush Manager***
+
+O projeto Crush Manager faz parte das atividades de avaliação da formação da Trybe, mais especificamente do modulo de back-end.
+
+O objetivo do projeto é avaliar e certificar os conhecimentos adquiridos sobre a construção de APIs usando node e mais especificamente, a biblioteca Express.
+
+## Objetivo técnico
+
+O objetivo do projeto é criar uma API para receber requisições e realizar operações básicas, GET, POST, PUT e DELETE, sobre um arquivo do tipo JSON para simular um banco de dados.
+
+## Ferramentas de desenvolvimento
+
+- Git e GitHub para versionamento
+- VSCode como editor
+- NodeJS
+- Biblioteca Express
+- Biblioteca File System (nativa)
+
+## Conclusão
+
+O projeto foi concluído com 100% de cumprimento dos requisitos, tendo como principais aprendizados a construção de rotas e controllers para realização de operações a partir de requisições HTTP.
+
+## Desenvolvedores
+
+- Paulo Afonso Volpin ([perfil](https://github.com/pa-volpin))
+
+## Repositório base do projeto (Trybe)
+
+https://github.com/tryber/sd-06-crush-manager
+
+<details>
+  <summary>README OFICIAL DA TRYBE</summary></br>
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
